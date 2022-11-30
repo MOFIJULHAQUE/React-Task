@@ -8,7 +8,7 @@ const Couneter = () => {
   return (
     <>
       <h1>{count}</h1>
-      <button onClick={handleCounter}>Counterr</button>
+      <button onClick={handleCounter}>Counter</button>
     </>
   );
 };
